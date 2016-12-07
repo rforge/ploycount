@@ -1,0 +1,12 @@
+Package: Policount
+Type: Package
+Title: Local Polynomial Non Parametric Regression
+Version: 0.1
+Date: 2016-12-01
+Author: Setia Pramana, Erni Triastuti
+Maintainer: Setia pramana <setia.pramana@stis.ac.id>
+Description: Local Polynomial Estimator Non Parametric Regression.
+License: GPL
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Depends: MASS, tcltk,tkrplot
